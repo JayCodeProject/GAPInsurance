@@ -1,0 +1,7 @@
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Release\POS.WebAPI.Extender.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Release\POS.WebAPI.Extender.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Release\Newtonsoft.Json.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Release\Newtonsoft.Json.xml
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Release\POS.WebAPI.Extender.csprojResolveAssemblyReference.cache
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Release\POS.WebAPI.Extender.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Release\POS.WebAPI.Extender.pdb

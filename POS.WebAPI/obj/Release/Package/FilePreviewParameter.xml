@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="projectaiapi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Jay\\Dropbox\\My\ Work\\Project\ AI\\AI\.WebAPI\\ai\.webapi\\AI\.WebAPI\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Jay\\Dropbox\\My\ Work\\Project\ AI\\AI\.WebAPI\\ai\.webapi\\AI\.WebAPI\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DapperConnectionString-Web.config Connection String" description="DapperConnectionString Connection String used in web.config by the application to access the database." value="server=projectai.database.windows.net;database=dev-projectaidb;UId=projectai; Password=U$er1234" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Jay\\Dropbox\\My\ Work\\Project\ AI\\AI\.WebAPI\\ai\.webapi\\AI\.WebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DapperConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="LogdbDapperConnectionString-Web.config Connection String" description="LogdbDapperConnectionString Connection String used in web.config by the application to access the database." value="server=projectai.database.windows.net;database=logdb;UId=projectai; Password=U$er1234" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Jay\\Dropbox\\My\ Work\\Project\ AI\\AI\.WebAPI\\ai\.webapi\\AI\.WebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LogdbDapperConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="NotificationdbDapperConnectionString-Web.config Connection String" description="NotificationdbDapperConnectionString Connection String used in web.config by the application to access the database." value="server=projectai.database.windows.net;database=notificationdb;UId=projectai; Password=U$er1234" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Jay\\Dropbox\\My\ Work\\Project\ AI\\AI\.WebAPI\\ai\.webapi\\AI\.WebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NotificationdbDapperConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,40 @@
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Extender\bin\Debug\AI.WebAPI.Extender.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Extender\bin\Debug\AI.WebAPI.Extender.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Extender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Extender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.csproj.CopyComplete
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Extender\obj\Debug\AI.WebAPI.Extender.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Extender\obj\Debug\AI.WebAPI.Extender.pdb
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Debug\POS.WebAPI.Extender.dll
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Debug\POS.WebAPI.Extender.pdb
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.csproj.CopyComplete
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.dll
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Debug\POS.WebAPI.Extender.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Debug\POS.WebAPI.Extender.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Debug\Newtonsoft.Json.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Debug\Newtonsoft.Json.xml
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Debug\POS.WebAPI.Extender.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Debug\POS.WebAPI.Extender.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.csprojAssemblyReference.cache
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.csproj.CopyComplete
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Extender\bin\Debug\POS.WebAPI.Extender.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Extender\bin\Debug\POS.WebAPI.Extender.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Extender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Extender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.csproj.CopyComplete
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Extender\obj\Debug\POS.WebAPI.Extender.pdb

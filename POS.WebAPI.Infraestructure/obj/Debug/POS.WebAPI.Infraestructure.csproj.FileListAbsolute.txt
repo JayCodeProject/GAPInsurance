@@ -1,0 +1,24 @@
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Infraestructure\bin\Debug\AI.WebAPI.Infraestructure.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Infraestructure\bin\Debug\AI.WebAPI.Infraestructure.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Infraestructure\obj\Debug\POS.WebAPI.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Infraestructure\obj\Debug\AI.WebAPI.Infraestructure.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\ai.webapi\AI.WebAPI.Infraestructure\obj\Debug\AI.WebAPI.Infraestructure.pdb
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Infraestructure\bin\Debug\POS.WebAPI.Infraestructure.dll
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Infraestructure\bin\Debug\POS.WebAPI.Infraestructure.pdb
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Infraestructure\obj\Debug\POS.WebAPI.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Infraestructure\obj\Debug\POS.WebAPI.Infraestructure.dll
+C:\Users\Jay\Desktop\Project POS\pos.webapi\POS.WebAPI.Infraestructure\obj\Debug\POS.WebAPI.Infraestructure.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\bin\Debug\POS.WebAPI.Infraestructure.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\bin\Debug\POS.WebAPI.Infraestructure.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\obj\Debug\POS.WebAPI.Infraestructure.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\obj\Debug\POS.WebAPI.Infraestructure.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\bin\Debug\POS.WebAPI.Infraestructure.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\bin\Debug\POS.WebAPI.Infraestructure.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\obj\Debug\POS.WebAPI.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\obj\Debug\POS.WebAPI.Infraestructure.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\obj\Debug\POS.WebAPI.Infraestructure.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Infraestructure\bin\Debug\POS.WebAPI.Infraestructure.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Infraestructure\bin\Debug\POS.WebAPI.Infraestructure.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Infraestructure\obj\Debug\POS.WebAPI.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Infraestructure\obj\Debug\POS.WebAPI.Infraestructure.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Infraestructure\obj\Debug\POS.WebAPI.Infraestructure.pdb

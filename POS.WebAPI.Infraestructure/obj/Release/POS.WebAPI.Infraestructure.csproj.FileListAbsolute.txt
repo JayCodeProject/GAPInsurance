@@ -1,0 +1,10 @@
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\bin\Release\POS.WebAPI.Infraestructure.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\bin\Release\POS.WebAPI.Infraestructure.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\obj\Release\POS.WebAPI.Infraestructure.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Infraestructure\obj\Release\POS.WebAPI.Infraestructure.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Infraestructure\bin\Release\POS.WebAPI.Infraestructure.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Infraestructure\bin\Release\POS.WebAPI.Infraestructure.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Infraestructure\obj\Release\POS.WebAPI.Infraestructure.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Infraestructure\obj\Release\POS.WebAPI.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Infraestructure\obj\Release\POS.WebAPI.Infraestructure.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Infraestructure\obj\Release\POS.WebAPI.Infraestructure.pdb

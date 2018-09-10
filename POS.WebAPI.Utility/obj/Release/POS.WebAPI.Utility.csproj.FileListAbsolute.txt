@@ -1,0 +1,25 @@
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\bin\Release\POS.WebAPI.Utility.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\bin\Release\POS.WebAPI.Utility.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\bin\Release\POS.WebAPI.Entity.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\bin\Release\POS.WebAPI.Entity.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.csprojResolveAssemblyReference.cache
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\bin\Release\POS.WebAPI.Utility.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\bin\Release\POS.WebAPI.Utility.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\bin\Release\POS.WebAPI.Entity.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\bin\Release\POS.WebAPI.Entity.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.csprojAssemblyReference.cache
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.csproj.CopyComplete
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Utility\bin\Release\POS.WebAPI.Utility.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Utility\bin\Release\POS.WebAPI.Utility.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Utility\bin\Release\POS.WebAPI.Entity.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Utility\bin\Release\POS.WebAPI.Entity.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.csproj.CopyComplete
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Utility\obj\Release\POS.WebAPI.Utility.pdb

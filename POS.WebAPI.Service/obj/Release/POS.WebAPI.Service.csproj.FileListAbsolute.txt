@@ -1,0 +1,58 @@
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Service.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Service.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\Mailjet.Client.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\Newtonsoft.Json.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Data.Dapper.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Entity.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Extender.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Infraestructure.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\Dapper.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Data.Dapper.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Entity.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Extender.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\Newtonsoft.Json.xml
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Infraestructure.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\Dapper.xml
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.csprojResolveAssemblyReference.cache
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Service.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Service.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\Mailjet.Client.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Data.Dapper.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Entity.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Extender.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Infraestructure.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\Dapper.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Data.Dapper.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Entity.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Extender.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Infraestructure.pdb
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\bin\Release\Dapper.xml
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.csprojAssemblyReference.cache
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.csproj.CopyComplete
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.dll
+C:\Users\Jay\Dropbox\My Work\Project POS\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Service.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Service.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\Mailjet.Client.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Data.Dapper.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Entity.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Extender.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Infraestructure.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\Dapper.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Data.Dapper.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Entity.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Extender.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\POS.WebAPI.Infraestructure.pdb
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\bin\Release\Dapper.xml
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.csproj.CopyComplete
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.dll
+C:\Users\Jay\Desktop\GAP\pos.webapi\POS.WebAPI.Service\obj\Release\POS.WebAPI.Service.pdb

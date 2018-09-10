@@ -1,0 +1,10 @@
+C:\Users\Jay\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Entity\bin\Release\AI.WebAPI.Entity.dll
+C:\Users\Jay\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Entity\bin\Release\AI.WebAPI.Entity.pdb
+C:\Users\Jay\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Entity\obj\Release\AI.WebAPI.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Jay\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Entity\obj\Release\AI.WebAPI.Entity.dll
+C:\Users\Jay\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Entity\obj\Release\AI.WebAPI.Entity.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Entity\bin\Release\AI.WebAPI.Entity.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Entity\bin\Release\AI.WebAPI.Entity.pdb
+E:\Users\yingjie.liang\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Entity\obj\Release\AI.WebAPI.Entity.csprojResolveAssemblyReference.cache
+E:\Users\yingjie.liang\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Entity\obj\Release\AI.WebAPI.Entity.dll
+E:\Users\yingjie.liang\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Entity\obj\Release\AI.WebAPI.Entity.pdb

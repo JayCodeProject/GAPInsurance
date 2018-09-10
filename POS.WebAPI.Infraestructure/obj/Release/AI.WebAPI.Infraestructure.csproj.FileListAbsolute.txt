@@ -1,0 +1,5 @@
+C:\Users\Jay\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Infraestructure\bin\Release\AI.WebAPI.Infraestructure.dll
+C:\Users\Jay\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Infraestructure\bin\Release\AI.WebAPI.Infraestructure.pdb
+C:\Users\Jay\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Infraestructure\obj\Release\AI.WebAPI.Infraestructure.csprojResolveAssemblyReference.cache
+C:\Users\Jay\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Infraestructure\obj\Release\AI.WebAPI.Infraestructure.dll
+C:\Users\Jay\Dropbox\My Work\Project AI\AI.WebAPI\ai.webapi\AI.WebAPI.Infraestructure\obj\Release\AI.WebAPI.Infraestructure.pdb
